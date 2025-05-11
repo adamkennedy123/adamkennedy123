@@ -46,11 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
 
-###
+### Gambar Ular
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/snake.svg)
 
 ###
 
