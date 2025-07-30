@@ -1,49 +1,65 @@
-<h1 align="center">Hi 👋, I'm Adam Kennedy</h1>
-<h3 align="center">Full Stack Web Developer | UI/UX Enthusiast</h3>
+<h1 align="center">Hey there 👋 I'm Adam Kennedy</h1>
+<h3 align="center">Full Stack Web Developer | UI/UX Designer | Open Source Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about turning ideas into scalable web solutions.<br>
-  🎯 Focused on clean code, user experience, and modern tech stacks.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=I+code+what+I+design;I+design+what+users+need;Full+Stack+Developer+%7C+UI%2FUX+Lover;Laravel+%E2%9D%A4+Node.js+%E2%9D%A4+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
-- 💻 **Backend**: PHP (Laravel, CodeIgniter), Node.js, Express.js  
-- 🌐 **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
-- 🎨 **UI/UX Design**: Figma  
-- ☕ **Other**: Java, MySQL, RESTful APIs, Git & GitHub
+**Back-end:**  
+⚙️ Laravel • 🔧 CodeIgniter • 🌐 Node.js • 📡 Express.js
 
----
+**Front-end:**  
+💻 HTML5 • 🎨 CSS3 • ⚡ JavaScript • 🧱 Bootstrap
 
-### 📂 Projects
+**UI/UX & Design:**  
+🧠 Figma • 🖌️ Prototyping • 🧩 Wireframing
 
-- 🔧 **POS System Laravel** – Inventory and sales system for SMEs.  
-- 🌐 **Portfolio Website** – Responsive personal portfolio using Bootstrap + Figma design.  
-- 📊 **Dashboard CI & Express** – Real-time dashboard with Node.js API and CI frontend.  
-- 🛒 **E-commerce Site** – Full-stack shopping site with cart, checkout, and admin panel.
+**Other Tools:**  
+☕ Java • 🐘 PHP • 🛢️ MySQL • 🧪 REST API • 🧰 Git & GitHub
 
 ---
 
-### 📫 Let's Connect!
+## 🌟 Featured Projects
 
-- 🌍 Website/Portfolio: [coming soon...]
-- 💼 LinkedIn: [your-linkedin-profile]
-- ✉️ Email: adamkennedy.dev@gmail.com
-- 🧠 Figma: [your-figma-link]
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamkennedy&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamkennedy&layout=compact&theme=radical" width="47%" />
-</p>
+- **SmartPOS System** – Laravel-based inventory + sales platform  
+- **Realtime Dashboard** – Built with CI + Express, live data & auth  
+- **Figma-to-Code Kits** – Full responsive conversion from design to web  
+- **Mini E-commerce** – Node.js REST API + Bootstrap UI
 
 ---
 
-### ✍️ Quote I Live By
+## 📈 GitHub Activity
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamkennedy&theme=react&hide_border=true" height="160"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adamkennedy&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamkennedy&layout=compact&theme=react&hide_border=true" height="160"/>
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+---
+
+## 🤝 Let's Connect
+
+📬 Email: [adamkennedy.dev@gmail.com](mailto:adamkennedy.dev@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/adamkennedy](#)  
+🎨 Figma: [figma.com/@adamkennedy](#)  
+🌐 Website: [Coming Soon...]
+
+---
+
+> _"Design like an artist, build like an engineer, solve like a thinker."_
