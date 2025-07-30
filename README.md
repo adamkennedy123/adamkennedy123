@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=I+code+what+I+design;I+design+what+users+need;Full+Stack+Developer+%7C+UI%2FUX+Lover;Laravel+%E2%9D%A4+Node.js+%E2%9D%A4+JavaScript" alt="Typing SVG" />
 </p>
 
--
+<hr/>
 
 ## 💻 Tech Stack
 
@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
--
+<hr/>
 
 ## 📊 GitHub Stats
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamkennedy123&theme=react&hide_border=true" height="150"/>
 </div>
 
--
+<hr/>
 
 ## 🐍 GitHub Contribution Snake
 
@@ -61,7 +61,7 @@
   </picture>
 </p>
 
--
+<hr/>
 
 ## 🤝 Let's Connect
 
@@ -70,6 +70,6 @@
 🎨 Figma: [figma.com/@adamkennedy](https://figma.com/@adamkennedy)  
 🌐 Website: Coming Soon...
 
--
+<hr/>
 
 > _"Design like an artist, build like an engineer, solve like a thinker."_
