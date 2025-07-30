@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="hero gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; width: 500px;" alt="hero gif">
 </p>
 
 <h1 align="center">Hey there 👋 I'm Adam Kennedy</h1>
