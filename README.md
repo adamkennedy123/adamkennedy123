@@ -23,7 +23,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adamkennedy123.adamkennedy123" alt="Visitor Count" />
 </p>
 
----
+-
 
 ## 👨‍💻 About Me
 
@@ -32,7 +32,7 @@
 🧠 Currently exploring advanced Laravel features & full-stack development.  
 🚀 Always learning, building, and sharing with the community.
 
----
+-
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" />
 </div>
 
----
+-
 
 ## 📊 GitHub Stats
 
@@ -62,15 +62,18 @@
   <img src="https://streak-stats.demolab.com?user=adamkennedy123&theme=tokyonight" height="180" />
 </div>
 
----
+-
 
 ## 🐍 Contribution Snake
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://github.com/adamkennedy123/adamkennedy123/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/adamkennedy123/adamkennedy123/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+
+-
 
 ## ⚡ Fun Facts
 
@@ -79,7 +82,7 @@
 - 🎯 My goal is to build meaningful projects that impact others  
 - 💬 Ask me anything about Laravel, Tailwind, or MySQL!
 
----
+-
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
