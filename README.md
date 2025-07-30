@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=I+code+what+I+design;I+design+what+users+need;Full+Stack+Developer+%7C+UI%2FUX+Lover;Laravel+%E2%9D%A4+Node.js+%E2%9D%A4+JavaScript" alt="Typing SVG" />
 </p>
 
----
+-
 
 ## 💻 Tech Stack
 
@@ -21,16 +21,7 @@
 **Other Tools:**  
 ☕ Java • 🐘 PHP • 🛢️ MySQL • 🧪 REST API • 🧰 Git & GitHub
 
----
-
-## 🌟 Featured Projects
-
-- **SmartPOS System** – Laravel-based inventory + sales platform  
-- **Realtime Dashboard** – Built with CI + Express, live data & auth  
-- **Figma-to-Code Kits** – Full responsive conversion from design to web  
-- **Mini E-commerce** – Node.js REST API + Bootstrap UI
-
----
+-
 
 ## 📈 GitHub Activity
 
@@ -41,28 +32,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamkennedy&layout=compact&theme=react&hide_border=true" height="160"/>
 </div>
 
----
-
-## 🐍 GitHub Contribution Snake
+-
 
 ## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamkennedy/adamkennedy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adamkennedy/adamkennedy/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/adamkennedy/adamkennedy/output/github-snake.svg" />
 </picture>
 
 
----
+-
 
 ## 🤝 Let's Connect
 
-📬 Email: [adamkennedy.dev@gmail.com](mailto:adamkennedy.dev@gmail.com)  
+📬 Email: [adamkennedy@gmail.com](mailto:adamkennedy@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/adamkennedy](#)  
 🎨 Figma: [figma.com/@adamkennedy](#)  
 🌐 Website: [Coming Soon...]
 
----
+-
 
 > _"Design like an artist, build like an engineer, solve like a thinker."_
