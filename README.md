@@ -55,20 +55,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/github-snake.svg" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/output/pacman-contribution-graph.svg">
+</picture>
 </p>
-
-<hr/>
-
-## 🤝 Let's Connect
-
-📬 Email: [adamkennedy@gmail.com](mailto:adamkennedy@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/adamkennedy](https://linkedin.com/in/adamkennedy)  
-🎨 Figma: [figma.com/@adamkennedy](https://figma.com/@adamkennedy)  
-🌐 Website: Coming Soon...
 
 <hr/>
 
