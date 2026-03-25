@@ -6,7 +6,6 @@
 <h3 align="center">Full Stack Web Developer | UI/UX Designer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=I+code+what+I+design;I+design+what+users+need;Full+Stack+Developer+%7C+UI%2FUX+Lover;Laravel+%E2%9D%A4+Node.js+%E2%9D%A4+JavaScript" alt="Typing SVG" />
 </p>
 
 <hr/>
