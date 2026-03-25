@@ -51,7 +51,7 @@
 
 <hr/>
 
-## 🐍 GitHub Contribution Snake
+## GitHub Contribution Pacman
 
 <p align="center">
   <picture>
