@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/adamkennedy123/adamkennedy123/blob/main/.github/workflows/killua.gif" style="max-width: 100%; width: 900px;" height="500" alt="hero gif">
+  <img src="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/main/.github/workflows/killua.gif" style="max-width: 100%; width: 900px;" height="500"alt="hero gif">
 </p>
 
 <h1 align="center">Hey there 👋 I'm Adam Kennedy</h1>
