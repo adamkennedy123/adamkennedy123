@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/main/.github/workflows/killua.gif"  width="400" alt="hero gif">
+  <img src="https://raw.githubusercontent.com/adamkennedy123/adamkennedy123/main/.github/workflows/killua.gif"  width="600" alt="hero gif">
 </p>
 
 <h1 align="center">Hey there 👋 I'm Adam Kennedy</h1>
-<h3 align="center">Full Stack Web Developer | UI/UX Designer | Open Source Enthusiast</h3>
+<h3 align="center">Web Developer | UI/UX Designer | IT Enthusiast</h3>
 
 <p align="center">
 </p>
